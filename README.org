@@ -1,0 +1,4 @@
+_Phoenix LiveView Streaming PicCam_
+
+
+based on [[https://dasky.xyz/posts/2020/08/12/an-iot-birdhouse-with-elixir-nerves-phoenix-liveview-components/][this]] blog post.
